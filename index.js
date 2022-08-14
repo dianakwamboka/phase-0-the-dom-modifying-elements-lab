@@ -1,1 +1,7 @@
-// Write your code here!
+function addElement () {
+    const = document.createElement
+
+}
+function = () {
+    const = document.queryselector
+}
